@@ -2,7 +2,9 @@
 title: "Hello World"
 author: "Sam HP"
 date: "2023-06-16"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
